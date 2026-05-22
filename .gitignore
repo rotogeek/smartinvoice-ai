@@ -21,6 +21,9 @@ sample_invoices/*.jpg
 sample_invoices/*.jpeg
 sample_invoices/*.webp
 
+# Local extraction cache (cached API responses — no secrets, but no need to commit)
+.cache/
+
 # OS
 .DS_Store
 Thumbs.db
