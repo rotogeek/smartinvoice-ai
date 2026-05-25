@@ -1,5 +1,7 @@
 # SmartInvoice AI
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rotogeek-smartinvoice-ai-app-XXXXXX.streamlit.app)
+
 AI-powered invoice processor: upload a PDF or image, extract structured data
 with a Groq vision model, validate with business rules, log to Google Sheets,
 and receive an email summary.
