@@ -1,6 +1,6 @@
 # SmartInvoice AI
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rotogeek-smartinvoice-ai-app-XXXXXX.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartinvoice-ai-9xrzzupgmx3ghnjfu3s5db.streamlit.app)
 
 > **Cut invoice processing from 15 minutes to 15 seconds** — upload a PDF, get structured data, SA VAT validation, a Google Sheets log, and an email summary with one click.
 
@@ -18,7 +18,7 @@ SmartInvoice AI accepts a scanned or digital invoice (PDF or image), uses a Groq
 
 ## Live Demo
 
-🔗 **[smartinvoice-ai.streamlit.app](https://rotogeek-smartinvoice-ai-app-XXXXXX.streamlit.app)**
+🔗 **[smartinvoice-ai.streamlit.app](https://smartinvoice-ai-9xrzzupgmx3ghnjfu3s5db.streamlit.app)**
 
 > _Screenshot placeholder — replace with a real screenshot before sharing_
 >
